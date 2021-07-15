@@ -12,6 +12,8 @@ RangeIndex: 35887 entries, 0 to 35886 Data columns (total 3 columns):
 |emotion         |`35887 non-null`              |'int64'            |
 |pixels          |`35887 non-null`              |object             |
 |Usage           |`35887 non-null`              |object
+
+
 dtypes: int64(1), object(2) memory usage: 841.2+ KB
 [
 
