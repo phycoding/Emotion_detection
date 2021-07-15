@@ -1,8 +1,6 @@
-## Emotion_detection
+# Emotion_detection
 
-*Machine learning* is transforming the world. Why not we can help ml to it in a better way. We have developed a model which takes care of your mood. 
-**Neuroscience Says Listening to This Song Reduces Anxiety by Up to 65 Percent**
-using an ML Model we will able to detect your mood and play a song according to your mood to boosts your productivity.
+I have built a model which can detect your facial emotion using your webcam or photo.
 
 # Model
 
@@ -11,9 +9,9 @@ RangeIndex: 35887 entries, 0 to 35886 Data columns (total 3 columns):
 
 |  Column               | Non-null Count               |Dtype                          |
 |----------------|-------------------------------|-----------------------------|
-|emotion         |`35887 non-null`            |'int64'            |
-|pixels          |`35887 non-null`            |object             |
-|Usage         |`35887 non-null`      |object
+|emotion         |`35887 non-null`              |'int64'            |
+|pixels          |`35887 non-null`              |object             |
+|Usage           |`35887 non-null`              |object
 dtypes: int64(1), object(2) memory usage: 841.2+ KB
 [
 
