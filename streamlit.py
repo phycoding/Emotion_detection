@@ -105,7 +105,7 @@ def detect_emotion(images):
         label = lookup[np.argmax(preds)]
         return label
 def main():
-  st.title("Apni sunder Mukh darshan")
+  st.title("Emotion Detector")
   st.sidebar.title('Navigation')
 
   method = st.sidebar.radio('Go To ->', options=['Image','Webcam'],key = 'amaifkajlfj')
